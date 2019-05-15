@@ -1,7 +1,0 @@
-
-For each population (POP),
-POP.ind is individual file (columns are individual ID, gender, population)
-POP.snp is SNP file (columns are SNP ID, chromosome, etc.)
-POP.geno is genotype file (columns are #alleles for each individual)
-  Note: 9 means missing data.
-
